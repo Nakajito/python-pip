@@ -15,8 +15,6 @@ def get_list():
         <p>Soy un parrafo</p>
     """
 
-
-
 def run():
     store.get_categories()
 
